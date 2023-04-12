@@ -21,7 +21,7 @@ is a small database with 3 tables about mental health in technology industry. Th
 2. [Sqlite3](https://docs.python.org/3/library/sqlite3.html)
 
 ## Notebook
-{MentalHealth_sqlite3](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
+[MentalHealth_sqlite3](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
 
 
 ## Walk through video
