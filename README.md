@@ -20,7 +20,7 @@ In this project, I will desmontrate how to use sqlite3 in Python to access relat
 
 
 ## Notebook
-[Mental Health Notebook]()
+[Mental Health Notebook](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
 
 
 ## Reference
