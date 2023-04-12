@@ -23,7 +23,6 @@ is a small database with 3 tables about mental health in technology industry. Th
 
 
 ## Walk through video
-Click on the logo to watch video
 
 [Running SQL in Python using sqlite3 <img src="sql_python.jpg" alt="SQL and Python" width = 200>](https://www.youtube.com/watch?v=Mrw9BopaTTE)
 
