@@ -23,7 +23,8 @@ This is a small database with 3 tables about mental health in technology industr
 
 
 ## Walk through video
-[<img src="sql_python.jpg" alt="SQL  and Python" width = 100>](https://www.youtube.com/watch?v=Mrw9BopaTTE)
+Click on the logo to watch video
+[<img src="sql_python.jpg" alt="SQL  and Python" width = 200>](https://www.youtube.com/watch?v=Mrw9BopaTTE)
 
 
 ## Reference
