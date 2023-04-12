@@ -14,7 +14,7 @@ In this project, I will desmontrate how to use sqlite3 in Python to access relat
 
 ## Data
 [Mental Health Dataset](https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
-This is a small database with 3 tables about mental health in technogy industry. The data were collected through the surveys from 2014 to 2019.
+This is a small database with 3 tables about mental health in technology industry. The data were collected through the surveys from 2014 to 2019.
 
 ## Libraries to use
 1. [Pandas](https://pandas.pydata.org/)
@@ -23,7 +23,7 @@ This is a small database with 3 tables about mental health in technogy industry.
 
 
 ## Walk through video
-[SQL and Python](https://www.youtube.com/watch?v=VM0XXQqT2Dg)
+[<img src="sql_python.webp" alt="SQL  and Python">](https://www.youtube.com/watch?v=Mrw9BopaTTE)
 
 
 ## Reference
