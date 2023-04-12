@@ -23,7 +23,16 @@ In this project, I will desmontrate how to use sqlite3 in Python to access relat
 [Mental Health Notebook](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
 
 
-## Reference
-https://osmihelp.org/research.html
+## Walk through video
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/SRMgHJiYlYu?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/SRMgHJiYlYu/embed" width="640" height="360"></iframe>
+        </div>
 
-https://www.datacamp.com/blog/sql-vs-python-which-to-learn
+
+## Reference
+[Open Sourcing Mental Illness - OSMI](https://osmihelp.org/research.html)
+
+[SQL vs Python](https://www.datacamp.com/blog/sql-vs-python-which-to-learn)
